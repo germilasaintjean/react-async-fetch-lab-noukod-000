@@ -24,4 +24,3 @@ class App extends Component {
 }
 
 export default App
-© 2019 GitHub, Inc.
